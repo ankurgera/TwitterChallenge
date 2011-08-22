@@ -1,0 +1,8 @@
+== Twitter Challenge
+
+Twitter Challenge is used to fetch tweets corresponding to a particular hashtag(for e.g #ruby).
+
+How to use:
+
+Usage Example => ruby find_links.rb anna
+
